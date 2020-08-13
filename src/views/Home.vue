@@ -1,18 +1,20 @@
 <template>
   <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+	<h1 style="font-family: 'Pacifico', cursive;">Roadtrippers</h1>
+     <div class="bottom-bar"/>
   </div>
 </template>
 
 <script>
 // @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue'
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld
   }
 }
 </script>
+
+<style scoped>
+	@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+</style> 
