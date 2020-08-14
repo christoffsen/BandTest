@@ -1,6 +1,6 @@
 <template>
   <div class="home">
-	<h1 style="font-family: 'Pacifico', cursive;">Roadtrippers</h1>
+	<h1 style="font-family: 'Pacifico', cursive;">Some bullshit</h1>
      <div class="bottom-bar"/>
   </div>
 </template>
