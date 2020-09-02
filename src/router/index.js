@@ -16,11 +16,6 @@ Vue.use(VueRouter)
     //component: function () {
 	//	return import(/* webpackChunkName: "about" */ '../views/About.vue')
    //}
-  },
-  {
-	path: '/Practice',
-	name: 'Practices',
-	component: Test
   }
 ]
 
