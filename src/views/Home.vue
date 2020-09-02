@@ -20,7 +20,7 @@ export default {
 		return {
 			songs: [
 				{"name" : "Locomotive Breath", "link" : "https://band-videos.s3.ca-central-1.amazonaws.com/Locomotive_Breath.mp4"}
-				,{"name" : "Proud Mary", "link" : "https://band-videos.s3.ca-central-1.amazonaws.com/No_Matter_What.mp4"}
+				,{"name" : "Proud Mary", "link" : "https://band-videos.s3.ca-central-1.amazonaws.com/Proud_Mary.mp4"}
 				,{"name" : "I Saw Her Standing There", "link" : "https://band-videos.s3.ca-central-1.amazonaws.com/I_Saw_Her_Standing_There.mp4"}
 				,{"name" : "Last Kiss", "link" : "https://band-videos.s3.ca-central-1.amazonaws.com/Last_Kiss.mp4"}
 				,{"name" : "Keep on Runnin'", "link" : "https://band-videos.s3.ca-central-1.amazonaws.com/Keep_on_Runnin.mp4"}
