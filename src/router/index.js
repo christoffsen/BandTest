@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
 import Home from '../views/Home.vue'
+import Test from '../views/Test.vue'
 
 Vue.use(VueRouter)
 
@@ -15,6 +16,11 @@ Vue.use(VueRouter)
     //component: function () {
 	//	return import(/* webpackChunkName: "about" */ '../views/About.vue')
    //}
+  },
+  {
+	path: '/Practice',
+	name: 'Practices',
+	component: Test
   }
 ]
 
